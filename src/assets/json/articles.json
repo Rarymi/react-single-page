@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Inteligência artificial na medicina.",
+    "description": "“Inteligência Artificial em medicina é o uso de computadores que, analisando um grande volume de dados e seguindo algoritmos definidos por especialistas na matéria, são capazes de propor soluções para problemas médicos.”",
+    "img": "assets/images/doctor.svg",
+    "url": "https://telemedicinamorsch.com.br/blog/inteligencia-artificial-na-medicina"
+  },
+  {
+    "title": "Inteligência Artificial nas escolas.",
+    "description": "“O aprendizado mediado por tecnologias é a tendência da educação. O uso de recursos baseados em inteligência artificial enriquece a prática pedagógica, assim como ajuda a manter o interesse do estudante, pois está aderente à linguagem da nova geração“",
+    "img": "assets/images/education.svg",
+    "url": "https://noticias.portaldaindustria.com.br/noticias/educacao/inteligencia-artificial-nas-escolas-estudo-aponta-ferramentas-que-serao-usadas-ate-2030/"
+  },
+  {
+    "title": "Inteligência Artificial na Indústria: como funciona a aplicação?",
+    "description": "“Através da combinação de várias tecnologias, os equipamentos ligados à IA são programados para realizar atividades da linha produtiva, aprendendo por conta própria e melhorando suas habilidades.“",
+    "img": "assets/images/factory.svg",
+    "url": "https://www.totvs.com/blog/gestao-industrial/inteligencia-artificial-na-industria/"
+  }
+]
